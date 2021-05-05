@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Thank you for visiting my website!
 
 Template Name: Personal Web
 Template URL: https://punkytka.github.io/
